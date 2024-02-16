@@ -1,1 +1,49 @@
-html project
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Events</title>
+    <!-- Flaticon Website -->
+    <link rel="icon" href="./img/date.png">
+</head>
+<body  style="color: white;background-color: black;">
+
+    <center>
+        <div>
+        <h1>Upcoming Events📅</h1>
+        <p>Don't Miss any of your important events. Here are the important events you 
+            have registered for !
+        </p>
+        <hr>
+    </div>
+    </center>
+    <center>
+
+        <p>Meshoo Shopping offers a diverse array of products, from trendy apparel to cutting-edge electronics, catering to a wide range of consumer needs. With an intuitive online platform and a seamless shopping experience, Meshoo simplifies the process of finding and purchasing desired items. Boasting competitive prices and frequent discounts, Meshoo ensures affordability without compromising quality. Additionally, its customer-centric approach prioritizes satisfaction, with efficient shipping and responsive support services. Whether seeking fashion-forward clothing, innovative gadgets, or home essentials, Meshoo Shopping is a go-to destination for discerning shoppers seeking convenience, value, and variety in their retail experience.</p>
+    </center>
+    <center>
+    <div>
+        <!--Size 600x200px-->
+
+    <a href="download.jpg"><img src="download.jpg"></a>
+    <h2>Photo Gallery Event</h2>
+    <h3>Free Entry | Free Food | Pets are Not Allowed</h3>
+    <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+</div>    
+
+<div>
+    <img src="download2.jpg">
+    <h2><a href="http://myntra.com">Fashion Store </a></h2>
+    <h3>Free Entry | Free Food | Pets are Not Allowed</h3>
+    <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+</div>    
+</center>
+<hr>
+<footer>
+    <center>
+        <h2>Contact</h2>
+        <h3>+91 6374802570 |gunalana17b@gmail.com</h3>
+        <p>9th street Avenue Park, chidambaram, 608401</p>
+    </center>
+</footer>
+</body>
+</html>
